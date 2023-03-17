@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0; box-sizing: border-box;;}
+header{
+    background-color: #3db36b;
+    color: #fff;
+    padding: 15PX;
+    text-align: center;
+    border-bottom: 3px solid #0f642f;
+}
+.container{
+    background-color: #eee;
+    min-height: 30vh;
+    padding: 30px;
+}
+.card{
+    width: 31%;
+    display: inline-block;
+    
+}
+footer{
+    background-color: #3db36b;
+    color: #fff;
+    border-top: 3px solid #0f642f;
+    padding: 50px;
+}
